@@ -10,7 +10,8 @@ l8w8jwt GUI is available for download [on the 'Releases' page](https://github.co
 
 ---
 
-This GUI's source code is [Apache-2.0 licensed](https://github.com/GlitchedPolygons/l8w8jwtgui/blob/main/LICENSE) and available on [github.com/GlitchedPolygons/l8w8jwtgui](https://github.com/GlitchedPolygons/l8w8jwtgui) - but also available for purchase on [glitchedpolygons.com](https://glitchedpolygons.com) (ships with some cool, additional stuff, PDF files/manual, etc...). 
+This GUI's source code is [Apache-2.0 licensed](https://github.com/GlitchedPolygons/l8w8jwtgui/blob/main/LICENSE) and available on [github.com/GlitchedPolygons/l8w8jwtgui](https://github.com/GlitchedPolygons/l8w8jwtgui) - but also available for purchase on [glitchedpolygons.com](https://glitchedpolygons.com/store/software/l8w8jwt-gui) (ships with some cool, additional 
+stuff, PDF files/manual, comfy .RPM and .DEB files for easy installation on Linux, etc...). 
 
 Please consider buying it from there to support the development of nifty tools like this :)
 
